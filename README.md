@@ -3,27 +3,27 @@
 NOTE: IF I FORGOT TO CREDIT SOMEONE, PLEASE NOTIFY ME ON DISCORD. (normallycd)
 
 
-Credits:
+# Credits:
 
-Song:
+# Song:
 Penkaru - Made FFE
 
 TheRoyalTony & Zeroh - Helped on FFE
 
-Charting:
+# Charting:
 NormallyCD
 
-Code:
+# Code:
 Snow The Fox - Most, if not all the code inside the "cys.lua"
 
 NormallyCD - Main Lua Stage, Game Over (Source), Options Menu Scroll (Source)
 
-Scripts:
+# Scripts:
 TT Ring Mechanic - Helisonbr & Alex Director
 
 Arrow Movement + FF Flying Objects Script - Fl4re's Final Escape
 
-Assets:
+# Assets:
 
 Lord X Sprite - Vep & Raena
 
@@ -60,7 +60,8 @@ FF Xenophanes Sprite, BG, Super BF (After Fl4re's Sprite) - MiroPaws
 Scrap Brain BG (CYS), Green Hill BG (CYS) - TimoX
 
 
-Extra Help:
+# Extra Help:
+
 Chart Fix (Final Escape) - Elitehack
 
 Sonic 2 HUD & Lord X Stage Code - TimoX
