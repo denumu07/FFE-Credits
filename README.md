@@ -2,9 +2,6 @@
 
 NOTE: IF I FORGOT TO CREDIT SOMEONE, PLEASE NOTIFY ME ON DISCORD. (normallycd)
 
-
-# Credits:
-
 # Song:
 Penkaru - Made FFE
 
