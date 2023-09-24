@@ -18,7 +18,7 @@ NormallyCD - Main Lua Stage, Game Over (Source), Options Menu Scroll (Source)
 # Scripts:
 TT Ring Mechanic - Helisonbr & Alex Director
 
-Arrow Movement + FF Flying Objects Script - Fl4re's Final Escape
+Arrow Movement + FE Flying Objects Script - Fl4re's Final Escape
 
 # Assets:
 
