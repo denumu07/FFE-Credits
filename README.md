@@ -26,7 +26,7 @@ Lord X Sprite - Vep & Raena (I COULDN'T FIND ANY OF VEP'S SOCIALS.) / https://tw
 
 Xenophanes 1st & 2nd Part, Perspective BF, Lord X Stage, Chaos Stage, Fleetway Sprites, Sunky BG & Sprites - Original Sonic.EXE (https://gamebanana.com/mods/316022)
 
-Xenophanes Final Section (Not Final Escape) - STG55544
+Xenophanes Final Section (Not Final Escape) - STG55544 (https://www.youtube.com/@STG55544)
 
 Eggman Sprite - Offbi (NO SOCIALS.)
 
