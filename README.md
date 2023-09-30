@@ -40,7 +40,7 @@ Metal Sonic Sprite + BG - VS. METAL SONIC
 
 Final Escape BG + Objects, Giant Ring - EstaGuy
 
-Confronting Yourself Sonic.EXE Sprites & Game Over Lord X Cover BF Sprites - AnotherNormalPerson 
+Confronting Yourself FF MIX Sonic.EXE Sprites, Angel Island Green BG, Angel Island Fire BG & Game Over Lord X Cover BF Sprites - AnotherNormalPerson 
 
 Majin BG - Illegal Instruction
 
