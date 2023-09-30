@@ -5,7 +5,9 @@ NOTE: IF I FORGOT TO CREDIT SOMEONE, PLEASE NOTIFY ME ON DISCORD. (normallycd)
 # Song:
 Penkaru - Made FFE
 
-TheRoyalTony & Zeroh - Helped on FFE
+TheRoyalTony -  Helped on FFE (https://www.youtube.com/channel/UCdsspYNVFOS_bW6-iwXqVWg)
+
+Zeroh - Helped on FFE
 
 # Charting:
 NormallyCD
