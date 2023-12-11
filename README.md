@@ -22,7 +22,7 @@ Arrow Movement + FE Flying Objects Script - Fl4re's Final Escape (https://gameba
 
 # Assets:
 
-Lord X Sprite - Vep & Raena (I COULDN'T FIND ANY OF VEP'S SOCIALS.) / https://twitter.com/raenablaize626?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+Lord X Sprite - Raena https://twitter.com/raenablaize626?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
 Xenophanes 1st & 2nd Part, Perspective BF, Lord X Stage, Chaos Stage, Fleetway Sprites, Sunky BG & Sprites - Original Sonic.EXE (https://gamebanana.com/mods/316022)
 
